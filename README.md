@@ -96,13 +96,13 @@ Richard (P2211590)
 * **Main programmer** (develop basic logic of the game)
 * Help write README.md
 
-Bless ()
+Bless (p2211527)
 
 * **Main programmer** (develop basic class - block.py, blockType.py)
 * **Test controller** (test the problem of the game)
 * Help write README.md
 
-Kaylee ()
+Kaylee (p2211433)
 
 * **Programmer** (write const.py, one of basic class file aggregated all of materials)
 * **Test controller** (test the problem of the game)
